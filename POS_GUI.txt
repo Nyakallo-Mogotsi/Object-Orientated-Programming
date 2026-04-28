@@ -1,0 +1,3 @@
+Write a program that will execute point of sale 
+The point of sale should be able to calculate and record every purchase.
+In your program please include the list of items that are on stock and give a report as stock depletes, so that the shop own could have a report of stocking up.  
