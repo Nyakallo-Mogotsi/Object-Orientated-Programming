@@ -12,7 +12,7 @@ Each project demonstrates different  object-oriented programming concepts , algo
 Projects are organized into separate folders, each containing its own `.java` files and supporting resources such as the corresponding pdf files
 
 - `Project1_PropertyManagement/` (estate agency system using OOP principles).
-- `Point_of_sale_GUI/` (Java Swing Point of Sale system for managing stock, purchases, and sales reporting).
+- `Project2_Point_of_sale_GUI/` (Java Swing Point of Sale system for managing stock, purchases, and sales reporting).
 
 🛠️ Technologies
 -  Language:  Java  
